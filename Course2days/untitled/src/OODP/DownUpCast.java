@@ -2,7 +2,7 @@ package OODP;
 
 class S{
     public void show1(){
-        System.out.println("S");
+        System.out.println("S class");
     }
 
 }
