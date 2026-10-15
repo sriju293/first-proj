@@ -14,7 +14,7 @@ abstract class Toyota extends Car{
 
 class BMW extends Toyota{
     public void drive() {
-        System.out.println("DRIVES");
+        System.out.println("DRIVES ");
     }
 }
 
