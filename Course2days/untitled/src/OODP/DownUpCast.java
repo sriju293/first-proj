@@ -8,7 +8,7 @@ class S{
 }
 class T extends S{
     public void show2(){
-        System.out.println("T");
+        System.out.println("T class");
     }
 }
 
